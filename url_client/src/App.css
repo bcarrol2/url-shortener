@@ -1,0 +1,41 @@
+body {
+  background-color: lightslategray;
+}
+
+.url-container {
+  background-color: lightsteelblue;
+  width: 85%;
+  height: 675px;
+  margin: 0 auto;
+  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
+}
+
+.url-form-box {
+  width: 88%;
+  height: 43px;
+  margin: 0 auto;
+  background-color: white;
+  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
+}
+
+#convert-button {
+  background-color: lightskyblue;
+  height: 25px;
+  border-radius: 3px;
+}
+
+.url-response-box {
+  width: 35%;
+  height: 43px;
+  position: relative;
+  top: 20%;
+  left: 32%;
+  background-color: white;
+}
+
+#new-url {
+  text-align: center;
+  padding: 10px;
+  border-width: 0;
+  font-size: 14px;
+}
